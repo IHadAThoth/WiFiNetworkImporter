@@ -48,3 +48,6 @@ The app provides two distinct ways to import networks:
 ## License
 
 This project is licensed under the **GNU General Public License v3.0**. See the `LICENSE` file for details.
+
+## Donations
+<a href="https://www.buymeacoffee.com/ihadathoth" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
